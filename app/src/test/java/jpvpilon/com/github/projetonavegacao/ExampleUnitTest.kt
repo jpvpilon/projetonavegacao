@@ -1,4 +1,4 @@
-package jpvpilon.github.com.projetonavegacao
+package jpvpilon.com.github.projetonavegacao
 
 import org.junit.Test
 

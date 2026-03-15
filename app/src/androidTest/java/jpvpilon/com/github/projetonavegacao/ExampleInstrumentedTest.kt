@@ -1,4 +1,4 @@
-package jpvpilon.github.com.projetonavegacao
+package jpvpilon.com.github.projetonavegacao
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

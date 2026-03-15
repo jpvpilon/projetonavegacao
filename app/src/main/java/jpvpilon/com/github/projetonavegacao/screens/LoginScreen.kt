@@ -1,4 +1,4 @@
-package jpvpilon.github.com.projetonavegacao.screens
+package jpvpilon.com.github.projetonavegacao.screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -16,15 +16,15 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
 @Composable
-fun PerfilScreen(modifier: Modifier = Modifier) {
+fun LoginScreen(modifier: Modifier = Modifier) {
     Box(
         modifier = modifier
             .fillMaxSize()
-            .background(Color(0xFF329F6B))
+            .background(Color(0xFFED145B))
             .padding(32.dp)
     ) {
         Text(
-            text = "PERFIL",
+            text = "LOGIN",
             fontSize = 24.sp,
             fontWeight = FontWeight.Bold,
             color = Color.White
@@ -35,7 +35,7 @@ fun PerfilScreen(modifier: Modifier = Modifier) {
             modifier = Modifier.align(Alignment.Center)
         ) {
             Text(
-                text = "Voltar",
+                text = "ENTRAR",
                 fontSize = 20.sp,
                 color = Color.Blue
             )

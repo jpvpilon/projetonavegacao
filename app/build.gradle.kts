@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "jpvpilon.github.com.projetonavegacao"
+    namespace = "jpvpilon.com.github.projetonavegacao"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1

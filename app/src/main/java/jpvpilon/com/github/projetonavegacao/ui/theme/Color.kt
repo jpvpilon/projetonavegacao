@@ -1,4 +1,4 @@
-package jpvpilon.github.com.projetonavegacao.ui.theme
+package jpvpilon.com.github.projetonavegacao.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

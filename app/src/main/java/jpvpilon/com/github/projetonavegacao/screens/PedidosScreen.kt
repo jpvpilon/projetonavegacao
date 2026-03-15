@@ -1,4 +1,4 @@
-package jpvpilon.github.com.projetonavegacao.screens
+package jpvpilon.com.github.projetonavegacao.screens
 
 
 import androidx.compose.foundation.background
