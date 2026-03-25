@@ -22,3 +22,11 @@ Terceiro commit: Inserindo valor ao parâmetro opcional na tela de Pedidos
 
 Nesse commit, colocamos no onClick o envio do parâmetro opcional, mostrando o que estiver inserido no valor. Caso não houvesse nada, viria o valor
 default, como tem, ele exibirá o "CLIENTE XPTO" no click.
+
+Quarto commit: Passagem de múltiplos parâmetros
+
+Aqui, atualizamos os parâmetros do Perfil, agora também sendo obrigatório além do nome, a idade, devendo ser inseridos na ordem correta nome -> idade.
+No OnClick ele aparece agora com o parâmetro da idade também, obrigatóriamente depois do nome. E colocando o NavType, usando a lista, sinalizamos o tipo da variável
+como inteiro. Por fim, no perfil screen passamos os parâmetros novamente. No final a tela irá exibir tudo que for inserido, com todos os parâmetros, pois são obrigatórios.
+
+Em resumo, todos esses commits serviram para adicionar parâmetros, obrigatórios como "nome" e "idade", ou opcionais como "cliente". 
