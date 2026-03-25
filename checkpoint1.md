@@ -18,3 +18,7 @@ Mais um ponto diferene do anterior, é que está definido o valor default direto
 Aqui em it.arguments?.getString("cliente") quando o código é executado, ele verifica se tem algo armazenado na variável, se tiver ele usa,
 caso não tenha ele usa o default.
 
+Terceiro commit: Inserindo valor ao parâmetro opcional na tela de Pedidos
+
+Nesse commit, colocamos no onClick o envio do parâmetro opcional, mostrando o que estiver inserido no valor. Caso não houvesse nada, viria o valor
+default, como tem, ele exibirá o "CLIENTE XPTO" no click.
