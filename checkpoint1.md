@@ -29,4 +29,4 @@ Aqui, atualizamos os parâmetros do Perfil, agora também sendo obrigatório al�
 No OnClick ele aparece agora com o parâmetro da idade também, obrigatóriamente depois do nome. E colocando o NavType, usando a lista, sinalizamos o tipo da variável
 como inteiro. Por fim, no perfil screen passamos os parâmetros novamente. No final a tela irá exibir tudo que for inserido, com todos os parâmetros, pois são obrigatórios.
 
-Em resumo, todos esses commits serviram para adicionar parâmetros, obrigatórios como "nome" e "idade", ou opcionais como "cliente". 
+Em resumo, todos esses commits serviram para adicionar parâmetros, obrigatórios como "nome" e "idade", ou opcionais como "cliente", fazendo assim, a navegação ficar mais completa e exibir todos os dados que quisermos.
